@@ -1,0 +1,19 @@
+﻿html {
+    background-color:cornsilk;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited{
+    color:green;
+}
+
+#heading{
+     align : center;
+}
+
+#hrefLinks{
+    align:center;
+}
